@@ -1,0 +1,6 @@
+#网易云分流
+# date changed: 2022.08.05
+# author:twoic
+DOMAIN-SUFFIX,clientlog3.music.163.com
+DOMAIN-SUFFIX,clientlog.music.163.com
+DOMAIN-SUFFIX,p1.music.126.net
