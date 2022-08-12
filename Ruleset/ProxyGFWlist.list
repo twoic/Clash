@@ -1,10 +1,8 @@
 # 内容: 新增代理规则
 # date changed: 2022.08.12
 DOMAIN-KEYWORD,91wg
+DOMAIN-KEYWORD,839161168
 DOMAIN-SUFFIX,mojie.pw
 DOMAIN-SUFFIX,amatrixap.com
 DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,openwrt.org
-IP-CIDR,46.8.181.139/32,no-resolve
-IP-CIDR,156.227.27.109/32,no-resolve
-IP-CIDR,154.218.6.27/32,no-resolve
