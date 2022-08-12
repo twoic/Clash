@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,mojie.pw
 DOMAIN-SUFFIX,amatrixap.com
 DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,openwrt.org
+IP-CIDR,46.8.181.139/32,no-resolve
