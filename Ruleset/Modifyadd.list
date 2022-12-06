@@ -1,5 +1,5 @@
 #网易云分流
-# date changed: 2022.08.05
+# date changed: 2022.12.06
 # author:twoic
 DOMAIN-SUFFIX,clientlog3.music.163.com
 DOMAIN-SUFFIX,clientlog.music.163.com
@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,p1.music.126.net
 #个性网
 DOMAIN-SUFFIX,woyaogexing.com
 #game
-DOMAIN-KEYWORD,83916116888kn
+DOMAIN-SUFFIX,83916116888kn.xyz
