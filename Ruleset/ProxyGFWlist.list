@@ -1,7 +1,6 @@
 # 内容: 新增代理规则
-# date changed: 2022.12.6
-DOMAIN-KEYWORD,91wg
-DOMAIN-KEYWORD,xsus
+# date changed: 2023.10.12
+DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,mojie.pw
 DOMAIN-SUFFIX,amatrixap.com
 DOMAIN-SUFFIX,ti.com
